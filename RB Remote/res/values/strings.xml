@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">RB Remote</string>
+    <string name="hello_world">Rhythmebox Remote Control</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_rbr">RbrActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="new_server">New Server</string>
+
+</resources>
